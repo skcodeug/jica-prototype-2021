@@ -25,6 +25,12 @@ $ npm run start:dev
 
 # production mode
 $ npm run start:prod
+
+# browser - documentation
+http://localhost:3000/
+
+# browser Landing Page
+http://localhost:3000/api/v1
 ```
 
 ## Stay in touch
